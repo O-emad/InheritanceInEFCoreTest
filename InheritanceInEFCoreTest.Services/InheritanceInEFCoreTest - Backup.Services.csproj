@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InheritanceInEFCoreTest.Data\InheritanceInEFCoreTest.Data.csproj" />
+    <ProjectReference Include="..\InheritanceInEFCoreTestInheritanceInEFCoreTest.Services.Helpers\InheritanceInEFCoreTestInheritanceInEFCoreTest.Services.Helpers.csproj" />
+    <ProjectReference Include="..\InheritanceInEFCoreTestInheritanceInEFCoreTestInheritanceInEFCoreTest.Domain\InheritanceInEFCoreTestInheritanceInEFCoreTestInheritanceInEFCoreTest.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
